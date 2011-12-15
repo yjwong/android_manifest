@@ -163,6 +163,7 @@
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
+  <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
@@ -237,7 +238,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="vendor/samsung" name="yjwong/android_proprietary_samsung" />
-  <project path="kernel/samsung/c1" name="AOSP-SGS2/samsung-kernel-c1" revision="ics-samsung-2.6.35.14" />
+  <project path="kernel/samsung/c1" name="yjwong/samsung-kernel-c1" revision="ics-samsung-2.6.35.14" />
 
   <project path="android" name="CyanogenMod/android" />
 </manifest>
